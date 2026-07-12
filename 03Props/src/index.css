@@ -1,0 +1,54 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'helvetica neue';
+    color:#fff;
+}
+
+body{
+    background-color: #111;
+    color:white;
+
+}
+
+.parent{
+    display: flex;
+  
+}
+
+
+
+.card{
+    width:300px;
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius:10px ;
+    background-color: #2a2929;
+    margin: 10px;
+
+}
+.card button{
+    padding:10px 20px;
+    background-color:white;
+    color:black;
+    border-radius:5px;
+    border:none;
+
+}
+.card p{
+    margin:20px 0px ;
+
+}
+
+.card img{
+ 
+    height: 100px;
+    width: 140px;
+    object-fit:cover;
+    border-radius: 50%;
+    
+
+}

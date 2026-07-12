@@ -1,0 +1,9 @@
+.card{
+  background-color: violet;
+  border-radius: 10px;
+  margin:20px;
+}
+.nav{
+  background-color: red;
+  border-radius: 5px;
+}
