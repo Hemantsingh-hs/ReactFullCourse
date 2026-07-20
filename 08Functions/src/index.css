@@ -1,0 +1,25 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color:orange ;
+}
+.page1{
+    height: 100vh;
+    width: 100%;
+    background-color: #222;
+
+
+
+}
+
+.page2{
+    height: 100vh;
+    width: 100%;
+    background-color: #525050;
+
+}
+.page3{
+    height: 100vh;
+    width: 100%;
+    background-color: #c5a4a4;
+}
